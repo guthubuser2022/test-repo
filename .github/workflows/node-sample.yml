@@ -1,4 +1,4 @@
-name: Node sample
+name: Node sample test
 
 on: [push]
 
